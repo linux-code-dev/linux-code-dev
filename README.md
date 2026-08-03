@@ -1,19 +1,34 @@
-# Hi, I'm Aleksey! 👋
+<div align="center">
 
-I am a software engineer. I specialize in cross-platform C++ and system programming, with experience in computer vision, quantum computing, and mobile development.
+# Алексей
+**Software Engineer**
 
-### 👨‍💻 About Me
-* 🐧 I work daily in **Linux** (Mint) and develop high-performance cross-platform applications.
-* 👁️ I design real-time image processing pipelines and work with **Computer Vision**.
-* ⚛️ I have a strong interest and practical focus on **Quantum Computing** algorithms and research.
-* 📱 I participate in team-based mobile development, utilizing **Kotlin Multiplatform** (including projects related to crypto wallets).
-* ⚙️ I confidently manage remote servers, automate deployments, and work directly from the terminal.
+<br>
 
-### 🛠 My Tech Stack
+### Tech Stack
 
-```sysinfo
-OS          : Linux (Mint)
-Core        : C / C++ / Python
-Domains     : Computer Vision, Quantum Computing
-Mobile & XP : Kotlin Multiplatform, Cross-Platform C++
-Shell       : bash / zsh
+<!-- Системное программирование и скрипты -->
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<br>
+
+<!-- Мобильная и кроссплатформенная разработка -->
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+<br>
+
+<!-- Инфраструктура и БД -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br><br>
+
+<!-- Минималистичная статистика GitHub без рамок и лишних цветов -->
+<img src="https://github-readme-stats.vercel.app/api?username=quartz-code&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8b949e&icon_color=7F52FF" alt="GitHub Stats" />
+
+</div>

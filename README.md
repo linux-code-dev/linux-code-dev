@@ -1,34 +1,32 @@
 <div align="center">
 
-# Алексей
+# Aleksey
 **Software Engineer**
-
-<br>
-
-### Tech Stack
-
-<!-- Системное программирование и скрипты -->
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<br>
-
-<!-- Мобильная и кроссплатформенная разработка -->
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-<br>
-
-<!-- Инфраструктура и БД -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br><br>
 
-<!-- Минималистичная статистика GitHub без рамок и лишних цветов -->
-<img src="https://github-readme-stats.vercel.app/api?username=quartz-code&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8b949e&icon_color=7F52FF" alt="GitHub Stats" />
+### Tech Stack
+
+<br>
+
+<!-- Системное программирование и скрипты -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="55" alt="C++" title="C++" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="55" alt="C" title="C" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="55" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="55" alt="Bash" title="Bash" />
+
+<br><br>
+
+<!-- Мобильная и кроссплатформенная разработка -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="55" alt="Kotlin" title="Kotlin" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="55" alt="Android Studio" title="Android Studio" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Используем логотип Kotlin с надписью для визуального разделения обычного Kotlin и Kotlin Multiplatform -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" height="55" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" />
+
+<br><br>
+
+<!-- Инфраструктура и БД -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="55" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sqlite/003B57" height="55" alt="SQL" title="SQL" />
 
 </div>
